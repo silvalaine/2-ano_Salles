@@ -23,7 +23,7 @@ var timeOnMessage=2; messageOk="PARABÉNS"; messageTime="O TEMPO ACABOU"; messag
 var urlOk=""; urlTime=""; urlError=""; urlAttempts="";
 var goURLOk="_blank"; goURLTime="_blank"; goURLAttempts="_blank"; goURLError="_blank"; 
 borderOk="#008000"; borderTime="#FF0000";borderError="#FF0000"; borderAttempts="#FF0000";
-var wordsGame="Sk9BT19HQUJSSUVM"; wordsStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+var wordsGame="Sk9BT19HQUJSSUVMX0VfTFVDQVM="; wordsStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
 var a=["2","2","2","2","2","2","2","2","2","2",];
 var b=["Mg==","Mg==","Mg==","Mg==","Mg==","Mg==","Mg==","Mg==","Mg==","Mg==",];
 var c=["2","4","6","8","10","12","14","16","18","20",];

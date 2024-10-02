@@ -16,6 +16,7 @@ Clique no nome do aluno para acessar o jogo</p>
 <a href="https://silvalaine.github.io/1-ano_Salles/MANUELLA/">MANUELLA</a><br>
 <a href="https://silvalaine.github.io/1-ano_Salles/GIOVANNA E ESTER/">GIOVANNA E ESTER</a><br>
 <a href="https://silvalaine.github.io/1-ano_Salles/HELENA/">HELENA</a><br>
+<a href="https://silvalaine.github.io/1-ano_Salles/JOAQUIM E RHEBECCA">JOAQUIM E RHEBECCA</a><br>
 
 <p>202</p>
 
